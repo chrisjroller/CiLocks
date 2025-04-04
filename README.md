@@ -42,7 +42,7 @@
 - [x] Brute Pin 4 Digit
 - [x] Brute Pin 6 Digit
 - [x] Brute LockScreen Using Wordlist
-- [x] Bypass LockScreen {Antiguard} Not Support All OS Version
+- [✓] Bypass LockScreen {Antiguard} Not Support All OS Version
 - [x] Reset Data
 - [x] IP Logger (Track IP Location and Information) 
 - [x] SpyCam (Take webcam shots from target just sending a malicious link) 
